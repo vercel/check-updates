@@ -1,0 +1,13 @@
+{
+  "name": "check-updates",
+  "version": "0.0.0",
+  "description": "Consistent update notifications for packages",
+  "main": "index.js",
+  "repository": "check-updates",
+  "keywords": [
+    "update",
+    "notifier"
+  ],
+  "author": "leo",
+  "license": "MIT"
+}
