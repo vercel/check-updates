@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Consistent update notifications for packages",
   "main": "index.js",
-  "repository": "check-updates",
+  "repository": "zeit/check-updates",
   "keywords": [
     "update",
     "notifier"
