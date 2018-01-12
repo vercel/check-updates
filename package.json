@@ -1,5 +1,5 @@
 {
-  "name": "check-updates",
+  "name": "@zeit/check-updates",
   "version": "0.0.0",
   "description": "Consistent update notifications for packages",
   "main": "index.js",
@@ -9,5 +9,10 @@
     "notifier"
   ],
   "author": "leo",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "ms": "^2.1.1",
+    "update-notifier": "^2.3.0"
+  }
 }
