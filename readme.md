@@ -1,6 +1,8 @@
 # check-updates
 
-This package makes it very easy to implement update notifications into ZEIT packages.
+This package makes it very easy to implement update notifications into ZEIT packages:
+
+<img width="900" alt="screen shot 2018-01-12 at 15 01 33" src="https://user-images.githubusercontent.com/6170607/34878177-8b2aa826-f7a9-11e7-90df-2c3c7f02a774.png">
 
 ## Usage
 
