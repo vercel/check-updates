@@ -1,6 +1,5 @@
 {
   "name": "@zeit/check-updates",
-  "access": "public",
   "version": "1.0.4",
   "description": "Consistent update notifications for packages",
   "main": "index.js",
