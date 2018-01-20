@@ -18,4 +18,9 @@ module.exports = (pkg, name, interval) => {
 
   const message = `The latest version of ${name} is ${chalk.bold(update.latest)}`
   console.log(`${chalk.white.bold.bgRed('UPDATE AVAILABLE')} ${message}`)
+
+  if (pkg.name === 'now-cli') {
+    const url = 'https://zeit.co/update-cli'
+    console.log(`Read more here: ${url}`)
+  }
 }
